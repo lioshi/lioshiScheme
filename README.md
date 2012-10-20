@@ -1,4 +1,4 @@
-sublimeTextLioshiTheme
+lioshiTheme
 ======================
 
 A dark theme for sublime text 2 based on Tommorrow night by http://chriskempson.com
@@ -8,6 +8,6 @@ A dark theme for sublime text 2 based on Tommorrow night by http://chriskempson.
 #Installation
 On Sublime Text 2 'Packages' directory run:
 
-	git clone https://github.com/lioshi/sublimeTextLioshiTheme.git
+	git clone https://github.com/lioshi/lioshiTheme.git
 
-Then select it in Preferences > Color Scheme > sublimeTextLioshiTheme
+Then select it in Preferences > Color Scheme > lioshiTheme
