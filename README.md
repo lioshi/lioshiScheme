@@ -9,3 +9,5 @@ A dark theme for sublime text 2 based on Tommorrow night by http://chriskempson.
 On Sublime Text 2 'Packages' directory run:
 
 	git clone https://github.com/lioshi/sublimeTextLioshiTheme.git
+
+Then select it in Preferences > Color Scheme > sublimeTextLioshiTheme
