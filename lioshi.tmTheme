@@ -944,15 +944,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>PHP: Class Function</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#9f577b</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>PHP: Semicolon</string>
 			<key>scope</key>
 			<string>punctuation.terminator.expression.php</string>
@@ -1040,7 +1031,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#dd7b72</string>
+				<string>#ce4d41</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1051,7 +1042,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#de7a71</string>
+				<string>#c4392c</string>
 			</dict>
 		</dict>
 		<dict>
