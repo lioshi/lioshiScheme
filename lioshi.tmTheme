@@ -410,7 +410,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>--Markdown-------------</string>
+			<string> > Markdown-------------</string>
 			<key>settings</key>
 			<dict>
 			</dict>
@@ -577,7 +577,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>--Shell---------------</string>
+			<string> > Shell---------------</string>
 			<key>settings</key>
 			<dict>
 			</dict>
@@ -684,7 +684,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>--JSON---------------</string>
+			<string> > JSON---------------</string>
 			<key>settings</key>
 			<dict>
 			</dict>
@@ -790,7 +790,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>--PHP---------------</string>
+			<string> > PHP---------------</string>
 			<key>settings</key>
 			<dict>
 			</dict>
@@ -1054,7 +1054,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>--LESS---------------</string>
+			<string> > LESS---------------</string>
 			<key>settings</key>
 			<dict>
 			</dict>
@@ -1094,7 +1094,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>--CSS---------------</string>
+			<string> > CSS---------------</string>
 			<key>settings</key>
 			<dict>
 			</dict>
@@ -1282,7 +1282,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>--JS----------------</string>
+			<string> > JS----------------</string>
 			<key>settings</key>
 			<dict>
 			</dict>
@@ -1357,7 +1357,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>--Brackets-----------</string>
+			<string> > Brackets-----------</string>
 			<key>settings</key>
 			<dict>
 			</dict>
@@ -1408,7 +1408,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>--HTML---------------</string>
+			<string> > HTML---------------</string>
 			<key>settings</key>
 			<dict>
 			</dict>
@@ -1607,7 +1607,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>--XML-------------</string>
+			<string> > XML-------------</string>
 			<key>settings</key>
 			<dict>
 			</dict>
@@ -1708,7 +1708,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>--Twig-------------</string>
+			<string> > Twig-------------</string>
 			<key>settings</key>
 			<dict>
 			</dict>
@@ -1814,7 +1814,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>--Find-------------</string>
+			<string> > Find-------------</string>
 			<key>settings</key>
 			<dict>
 			</dict>
@@ -1843,7 +1843,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>--Miscelanous----------</string>
+			<string> > Miscelanous----------</string>
 			<key>settings</key>
 			<dict>
 			</dict>
