@@ -29,7 +29,7 @@
 				<string>#373B41</string>
 				
 				<key>guide</key>
-			        <string>#C0C0C0</string>
+			        <string>#646464</string>
 			        <key>activeGuide</key>
 			        <string>#ECECEC</string>
 			        <key>stackGuide</key>
