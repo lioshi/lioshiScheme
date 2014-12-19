@@ -29,11 +29,11 @@
 				<string>#373B41</string>
 				
 				<key>guide</key>
-			        <string>#3b5364</string>
+			        <string>#C0C0C0</string>
 			        <key>activeGuide</key>
-			        <string>#ffc600</string>
+			        <string>#ECECEC</string>
 			        <key>stackGuide</key>
-			        <string>#5a7b92</string>
+			        <string>#7E7E7E</string>
 			        
 			</dict>
 		</dict>
