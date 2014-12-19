@@ -29,9 +29,9 @@
 				<string>#373B41</string>
 				
 				<key>guide</key>
-			        <string>#646464</string>
+			        <string>#4E4E4E</string>
 			        <key>activeGuide</key>
-			        <string>#ECECEC</string>
+			        <string>#CECECE</string>
 			        <key>stackGuide</key>
 			        <string>#7E7E7E</string>
 			        
