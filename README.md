@@ -20,7 +20,6 @@ Edit user settings like followed
 		"theme": "lioshi.sublime-theme",
 		"lioshi_big_tab": false,              // default option value
 		"lioshi_disable_fileicons": false,    // default option value
-                
                 // smart options 
                 "always_show_minimap_viewport": true,
                 "bold_folder_labels": true,
