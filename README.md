@@ -29,6 +29,6 @@ Edit user settings like followed
             "draw_normal",
             "draw_active"
             ],
-            "overlay_scroll_bars": "enabled" 
+        "overlay_scroll_bars": "enabled" 
 	}
 
