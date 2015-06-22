@@ -7,9 +7,11 @@ Theme added with help of Material Theme by Mattia Astorino http://equinusocio.gi
 
 ![php code in lioshi scheme on sublime Text 2](https://raw.github.com/lioshi/lioshiScheme/master/images/example.png)
 
+![php code in lioshi scheme on sublime Text 3](https://raw.github.com/lioshi/lioshiScheme/master/images/example2.png)
+
 #Easy installation
 
-You can install this theme through the Package Control : https://packagecontrol.io/installation. Search for “lioshi theme”, install, restart Sublime Text.
+You can install this theme through the Package Control : https://packagecontrol.io/installation. Search for “lioshiTheme”, install, restart Sublime Text.
 
 Edit user settings like followed
 
