@@ -17,7 +17,7 @@
 			<dict>
 				<key>background</key>
 				<!-- <string>#232324</string> -->
-				<string>#202020</string>
+				<string>#2C2C2C</string>
 				<key>caret</key>
 				<string>#AEAFAD</string>
 				<key>foreground</key>
