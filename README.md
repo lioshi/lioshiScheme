@@ -11,7 +11,7 @@ Theme added with help of Material Theme by Mattia Astorino http://equinusocio.gi
 
 You can install this theme through the Package Control : https://packagecontrol.io/installation. Search for “lioshi color scheme”, install, restart Sublime Text.
 
-
+Edit user settings like followed
 
 	{
 		"color_scheme": "Packages/lioshiScheme/schemes/lioshi.tmTheme",
