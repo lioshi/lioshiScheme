@@ -1,5 +1,5 @@
-lioshi theme
-======================
+lioshiTheme
+===========
 
 A dark scheme for sublime text based on Tommorrow night by http://chriskempson.com
 
@@ -9,7 +9,7 @@ Theme added with help of Material Theme by Mattia Astorino http://equinusocio.gi
 
 #Easy installation
 
-You can install this theme through the Package Control : https://packagecontrol.io/installation. Search for “lioshi color scheme”, install, restart Sublime Text.
+You can install this theme through the Package Control : https://packagecontrol.io/installation. Search for “lioshi theme”, install, restart Sublime Text.
 
 Edit user settings like followed
 
