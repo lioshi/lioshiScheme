@@ -16,18 +16,19 @@ You can install this theme through the Package Control : https://packagecontrol.
 Edit user settings like followed
 
 	{
-		"color_scheme": "Packages/lioshiScheme/schemes/lioshi.tmTheme",
-		"theme": "lioshi.sublime-theme",
-		"lioshi_big_tab": false,              // default option value
-		"lioshi_disable_fileicons": false,    // default option value 
-                "always_show_minimap_viewport": true, // smart options                              
-                "bold_folder_labels": true,           
-                "font_size": 10,
-                "indent_guide_options":
-                [
-                    "draw_normal",
-                    "draw_active"
-                ],
-                "overlay_scroll_bars": "enabled" 
+        "color_scheme": "Packages/lioshiScheme/schemes/lioshi.tmTheme",
+        "theme": "lioshi.sublime-theme",
+        "lioshi_big_tab": false,              // default option value
+        "lioshi_disable_fileicons": false,    // default option value 
+        // smart options
+        "always_show_minimap_viewport": true,                               
+        "bold_folder_labels": true,           
+        "font_size": 10,
+        "indent_guide_options":
+            [
+            "draw_normal",
+            "draw_active"
+            ],
+            "overlay_scroll_bars": "enabled" 
 	}
 
