@@ -5,9 +5,11 @@ A dark scheme for sublime text based on Tommorrow night by http://chriskempson.c
 
 Theme added with help of Material Theme by Mattia Astorino http://equinusocio.github.io/material-theme
 
-![php code in lioshi scheme on sublime Text 2](https://raw.github.com/lioshi/lioshiScheme/master/images/example.png)
+![screenshot 1 lioshiTheme on sublime Text 3](https://raw.github.com/lioshi/lioshiScheme/master/images/example.png)
 
-![php code in lioshi scheme on sublime Text 3](https://raw.github.com/lioshi/lioshiScheme/master/images/example2.png)
+![screenshot 2 lioshiTheme on sublime Text 3](https://raw.github.com/lioshi/lioshiScheme/master/images/example2.png)
+
+![screenshot 3 lioshiTheme on sublime Text 3](https://raw.github.com/lioshi/lioshiScheme/master/images/example3.png)
 
 #Easy installation
 
