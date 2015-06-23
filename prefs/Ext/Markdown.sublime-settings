@@ -6,6 +6,6 @@
     "draw_centered": false, // Centers the column in the window
     "draw_indent_guides": false,
     "trim_trailing_white_space_on_save": false,
-    "word_wrap": true,
-    "wrap_width": 80  // Sets the # of characters per line
+    "word_wrap": false,
+    // "wrap_width": 80  // Sets the # of characters per line
 }
