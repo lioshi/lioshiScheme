@@ -646,9 +646,11 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#1E1E1E</string>
+				<string>#8F8F8F</string>
 				<key>background</key>
 				<string>#FFFFFF</string>
+				<key>fontStyle</key>
+				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
