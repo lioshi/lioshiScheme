@@ -20,7 +20,7 @@ You can install this theme through the Package Control : https://packagecontrol.
 Edit user settings like followed
 
 	{
-        "color_scheme": "Packages/lioshiScheme/schemes/lioshi.tmTheme",
+        "color_scheme": "Packages/lioshiTheme/schemes/lioshi.tmTheme",
         "theme": "lioshi.sublime-theme",
         "lioshi_big_tab": false,              // default option value
         "lioshi_disable_fileicons": false,    // default option value 
