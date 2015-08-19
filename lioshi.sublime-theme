@@ -279,9 +279,9 @@
 			"layer1.inner_margin": [0, 0],
 			"layer1.opacity": { "target": 0.0, "speed": 5.0, "interpolation": "smoothstep" },
 
-			"layer2.tint": [160, 160, 160, 20],
+			"layer2.tint": [180, 180, 180, 20],
 			"layer2.inner_margin": [0, 0],
-			"layer2.opacity": { "target": 0.0, "speed": 3.0, "interpolation": "smoothstep" },
+			"layer2.opacity": { "target": 1.0, "speed": 3.0, "interpolation": "smoothstep" },
 
 			"content_margin": [18, 8, 11, 4],
 			"max_margin_trim": 0,
@@ -301,7 +301,7 @@
 		{
 			"class": "tab_control", "attributes": ["hover"],
 			"layer1.opacity": 0.0,
-			"layer2.opacity": { "target": 0.4, "speed": 5.0, "interpolation": "smoothstep" }
+			"layer2.opacity": { "target": 0.8, "speed": 5.0, "interpolation": "smoothstep" }
 		},
 
 			// Selected current tab
@@ -309,14 +309,14 @@
 		{
 			"class": "tab_control", "attributes": ["selected","hover"],
 			"layer1.opacity": 1.0,
-			"layer2.opacity": { "target": 0.4, "speed": 5.0, "interpolation": "smoothstep" }
+			"layer2.opacity": { "target": 0.8, "speed": 5.0, "interpolation": "smoothstep" }
 		},
 
 			// Tab Labels
 
 		{
 			"class": "tab_label",
-			"fg": [97, 97, 97, 255],
+			"fg": [120, 120, 120, 255],
 			"shadow_color": [255, 255, 255, 0],
 			"shadow_offset": [0, 0],
 			"font.size": 11,
@@ -520,7 +520,7 @@
 
 		{
 			"class": "sidebar_label",
-			"color": [97, 97, 97],
+			"color": [140, 140, 140],
 			"font.bold": false,
 			"font.italic": false,
 			"shadow_color": [0, 0, 0, 0],
@@ -530,7 +530,7 @@
 		{
 			"class": "sidebar_label",
 			"parents": [{"class": "tree_row", "attributes": ["hover"]}],
-			"color": [175, 175, 175],
+			"color": [255, 255, 255],
 			"shadow_color": [0, 0, 0, 0],
 			"shadow_offset": [0, 1]
 		},
@@ -547,13 +547,13 @@
 			"parents": [{"class": "tree_row", "attributes": ["expandable"]}],
 			"settings": ["bold_folder_labels"],
 			"font.bold": true,
-			"color": [175, 175, 175]
+			"color": [190, 190, 190]
 		},
 
 		{
 			"class": "sidebar_label",
 			"parents": [{"class": "tree_row", "attributes": ["expandable"]}],
-			"color": [175, 175, 175]
+			"color": [190, 190, 190]
 		},
 
 		{
@@ -581,7 +581,7 @@
 		{
 			"class": "icon_file_type",
 			// layer0.texture is filled in by code with the relevant icon name
-			"layer0.opacity": 0.6,
+			"layer0.opacity": 1,
 			"content_margin": [8, 8]
 		},
 		{
@@ -745,7 +745,7 @@
 		// Normal Vertical scrollbar track
 	    {
 	        "class": "scroll_bar_control",
-	        "layer0.tint": [44, 44, 44],
+	        "layer0.tint": [255, 255, 255],
 	        "layer0.opacity": 1.0,
 	        "layer0.inner_margin": [0, 6],
 	        "blur": false
@@ -942,7 +942,7 @@
 
 		{
 			"class": "label_control",
-			"color": [170, 170, 170],
+			"color": [255, 255, 255],
 			"shadow_color": [24, 24, 24, 0],
 			"shadow_offset": [0, 0],
 			"font.bold": true
@@ -953,7 +953,7 @@
 	    {
 	        "class": "label_control",
 	        "parents": [{"class": "status_bar"}],
-	        "color": [66, 66, 66],
+	        "color": [180, 180, 180],
 	        "font.bold": false
     	},
 
